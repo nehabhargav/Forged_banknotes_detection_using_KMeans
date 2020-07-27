@@ -7,3 +7,10 @@ This project uses k mean clustering algorithm for classification of genuine and 
 
 Data science is a powerful tool used for training and testing of data. Here we train the system with various input images of fake and genuine notes. After completion of training we test any currency. KNN algorithm gives 100% accuracy.
 This is a classification project, since the variable to be predicted is binary (fraudulent or legal).The goal here is to model the probability that a banknote is fraudulent, as a function of its features.
+
+
+Our Final Output:
+
+[
+![Screenshot 2020-07-28 at 3 13 18 AM](https://user-images.githubusercontent.com/53258421/88595345-678e6d00-d080-11ea-870f-ce6f4aa6caa5.png)
+](url)
